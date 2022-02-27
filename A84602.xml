@@ -1,0 +1,342 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Salt-water sweetned; or, A true account of the great advantages of this new invention both by sea &amp; land: together with a full and satisfactory answer to all apparent difficulties. : Also the approbation of the Colledge of Physicians. : Likewise a Letter of the Honourable Robert Boyle to a friend upon the same subject.</title>
+            <author>Fitzgerald, R. (Robert)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84602</idno>
+            <idno type="STC">Wing F1088</idno>
+            <idno type="STC">ESTC R177086</idno>
+            <idno type="EEBO-CITATION">47683445</idno>
+            <idno type="OCLC">ocm 47683445</idno>
+            <idno type="VID">172907</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172907)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2655:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Salt-water sweetned; or, A true account of the great advantages of this new invention both by sea &amp; land: together with a full and satisfactory answer to all apparent difficulties. : Also the approbation of the Colledge of Physicians. : Likewise a Letter of the Honourable Robert Boyle to a friend upon the same subject.</title>
+                  <author>Fitzgerald, R. (Robert)</author>
+                  <author>Boyle, Robert, 1627-1691. Letter of Mr. Boyle to the learned Dr. John Beale ... concerning fresh-water made out of sea-water.</author>
+               </titleStmt>
+               <extent>[2], 3-14, [1] p. p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Joseph Ray at Colledge-Green, for William Norman (in Dames-Street) Bookbinder to His Grace the Duke of Ormond.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the King's Most Excellent Majesty" signed: R. Fitzgerald.</note>
+                  <note>Reproduction of original in: Trinity College (Dublin, Ireland). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sea-water, Distillation of --  Early works to 1800.</term>
+               <term>Saline water conversion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172907:1" rendition="simple:additions"/>
+            <p>SALT WATER SWEETNED; Or, a TRUE ACCOUNT OF THE GREAT ADVANTAGES Of this NEW INVENTION BOTH BY SEA &amp; LAND: Together with A Full and Satisfactory ANSWER to all Apparent DIFFICULTIES.</p>
+            <p>ALSO THE Approbation of the COLLEDGE of PHYSICIANS.</p>
+            <p>LIKEWISE A LETTER of the Honourable <hi>Robert Boyle,</hi> to a Friend upon the ſame Subject.</p>
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>Joſeph Ray</hi> at <hi>Colledge-Green,</hi> for <hi>William Norman</hi> (in <hi>Dames-ſtreet</hi>) Bookbinder to His Grace the Duke of <hi>Ormond.</hi> 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:172907:2"/>
+            <pb n="3" facs="tcp:172907:2" rendition="simple:additions"/>
+            <head>TO THE KING'S Moſt Excellent MAJESTY.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WHen Mr, <hi>Boyle,</hi> with my Partners and my ſelf, attended Your Majeſty with the Experiment of Reducing <hi>Salt Water</hi> into <hi>Freſh;</hi> Your Majeſty ſeem'd ſo well pleas'd with an Invention of that <g ref="char:V">Ʋ</g>niverſal Benefit, That We cannot but with our Humbleſt Duty, acknowledge Your Gracious Recep<g ref="char:EOLhyphen"/>tion of it; However as Your Great Wiſdom and Profound Judg<g ref="char:EOLhyphen"/>ment is not eaſie to be ſurpriz'd, and Your Royal Approbation never known to be Your haſty Act of Grace; Your Favour and Patronage was not fully obtain'd, till with the ſtricteſt Scrutiny you had firſt examin'd thoſe Hopes and Probabilities, You vouch ſaf'd to encourage in us.</p>
+            <p>But when, upon further conſideration, we had obviated all Difficulties, and ſalv'd all Objections againſt this <g ref="char:V">Ʋ</g>ndertaking, (which we hope will appear in this printed Paper,) Your Majeſty was graciouſly pleas'd to give us Your Approbation, and to order us Your <hi>Letters Patents,</hi> which Grace and Favour (ought to be, and) is receiv'd by us with the deepeſt ſenſe of our humble Acknowledgments and Gratitude.</p>
+            <p>And if the Fruits of Your Royal Grant has not hitherto been deriv'd to us, 'tis partly by ſome Obſtacles we met from the ſug<g ref="char:EOLhyphen"/>geſtions of a private Perſon, but more eſpecially by the late <hi>Hor<g ref="char:EOLhyphen"/>rid Conſpiracy,</hi> when, not only our Loyal apprehenſions for Your Majeſties Danger, diverted our Thoughts from all other Concerns, but likewiſe we judg'd it a part of our Duty not to be preſſing on Your Majeſties Goodneſs, or on Your Miniſters of State in ſo Im<g ref="char:EOLhyphen"/>portant
+<pb n="4" facs="tcp:172907:3"/>a juncture of Affairs: But having now regain'd Leiſure and Freedom after the diſſipation of the greateſt part of our Fears, We preſume a ſecond time to lay theſe Endeavours at Your Feet, as beſt Entituled to the Patronage of ſo great an <g ref="char:V">Ʋ</g>ndertaking by Your own Subjects, and beſt able to recommend it to the World by Your Royal Approbation.</p>
+            <p>This Experiment is in a great degree owing to the Eminent Mr. <hi>Boyle,</hi> and indeed well worthy ſo Ingenious a Promoter, be<g ref="char:EOLhyphen"/>ing ſo much the more the Favourite of his happy <hi>Genius,</hi> as it is <g ref="char:V">Ʋ</g>niverſally uſeful to Mankind; But whatever Advantages this Country, or indeed the World may receive by it, his whole ambi<g ref="char:EOLhyphen"/>tion is bounded in the publick profit, contenting himſelf with no other Benefit from it, than the ſatisfaction and pleaſure of ſeeing it accompliſh'd by his Friends.</p>
+            <p>The advantages in regard to <hi>Navigation,</hi> eſpecially in long Voyages, which are ſubject (through often Calms, and on ſeveral other accounts,) to diſtreſs for want of Water, and the benefits to Sea Towns, which are incommodated by Brackiſh Waters, Toge<g ref="char:EOLhyphen"/>ther with the Eaſineſs, Cheapneſs and Wholſomneſs of this pre<g ref="char:EOLhyphen"/>pared Water, are the principal ſcope of theſe enſuing Papers, which are Humbly Dedicated to Your Majeſties Peruſal, Favour, and further Approbation by,</p>
+            <closer>
+               <signed>Your Majeſties moſt Dutiful, and Obedient Subject, <hi>R. FITZGERALD.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:172907:3"/>
+            <head>The fore-going Dedication humbly offered to <hi>His Ma<g ref="char:EOLhyphen"/>jeſty,</hi> having diſcovered the Intention of this Un<g ref="char:EOLhyphen"/>dertaking; it remains now to ſatisfie all Reaſonable Scruples which have been raiſed concerning the Whole<g ref="char:EOLhyphen"/>ſomneſs and Cheapneſs of <hi>Water</hi> thus prepared.</head>
+            <p>The <hi>Queries</hi> and <hi>Anſwers</hi> follow.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> 
+               <hi>IF this</hi> Water <hi>can be made in ſufficient Quantities to ſerve the <g ref="char:V">Ʋ</g>ſes of any Ship at</hi> Sea?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> About Ninety Gallons may be prepa<g ref="char:EOLhyphen"/>red in Twenty four Hours by an Inſtrument of 33 Inches Diameter, which will ſtand under the Deck of any Ship; and it's computed that leſs than 3 Quarts is a good Allowance for any man in that time: And it a large Ship, wherein there are many men aboard, ſhould require more Water, then two or more of the Inſtruments may be had upon Reaſonable Terms, and one Man may attend ſeveral of them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> 
+               <hi>In caſe the Operation be by</hi> Fire, <hi>it may require a Skilful</hi> Chymiſt, <hi>or one known in ſuch Operations to be on board every Ship, who will require great Wages?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> There will be no occaſion for any ſuch perſon, for any Sea-man may be inſtructed in an Hour or two to pre<g ref="char:EOLhyphen"/>pare this Water.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label> 
+               <hi>It's probable that the</hi> Engine <hi>may be frequently out of Order, and being ſo at</hi> Sea, <hi>where Artificers and Tools are wanting to repair it, there muſt neceſſarily follow want of</hi> Water, <hi>which will be of ill conſequence?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This <hi>Engine</hi> is of ſuch Contrivance, that it's never likely to be out of Order.</p>
+            <pb n="6" facs="tcp:172907:4"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>Can this</hi> Engine <hi>be of uſe in Stormy weather?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Since a ſufficient quantity of Freſh-water may be ſo eaſily had by this <hi>Engine,</hi> the Mariners will be careful to make a good Proviſion of it before-hand; however 'tis not to be doubted but it will anſwer the worſt Accidents of the greateſt Storms, and have its Effect ſufficiently in the worſt Weather, eſpecially conſidering that in ſuch deſperate Ex<g ref="char:EOLhyphen"/>tremities men muſt be content with ſmaller Allowances.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>5</label> 
+               <hi>The Operation being by</hi> Fire <hi>it may endanger the Ship, and the Smoak be very offenſive?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The <hi>Engine</hi> may eaſily be placed in any Ship with<g ref="char:EOLhyphen"/>out danger of <hi>Fire,</hi> or offence of Smoak.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>6</label> 
+               <hi>Will not the Charge of this Inſtrument and the Ma<g ref="char:EOLhyphen"/>terials belonging to it be very great?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It is difficult to make exact Anſwer to this, but an Inſtrument of the largeſt Size, with all the Materials belong<g ref="char:EOLhyphen"/>ing to it, will not amount to above Sixteen Pound at moſt, and may laſt many years, and according to the Rates of Ships they may be proportion'd both in Bulk and Price.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>7</label> 
+               <hi>Will not the Fewel be very Chargeable, and take up much Room in the Ship?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This Operation is cauſed by ſo little <hi>Fire,</hi> that it will be very Cheap, and the Proviſion need not be great, nor the trouble of Stowing it in a Ship.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>8</label> 
+               <hi>Will not the Ingredients take up much Room, and be very Chargeable?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> A Veſſel leſs than a Barrel may contain enough of the Ingredients to carry a Ship to the <hi>Indies</hi> and back again; and the Ingredients for one hundred Gallons of this <hi>Sea-Water</hi> will not amount to above Fourteen Pence at moſt.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>9</label> 
+               <hi>Admitting this Preparation of Water may be made, and in ſufficient quantities, it may be doubted whether it be Wholeſome?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> The Famous Lord <hi>Bacon</hi> having written learnedly
+<pb n="7" facs="tcp:172907:4"/>of this Subject, had not the leaſt thought that the Sea-water after it had been diſ-ſalted, without any Noxious addition, was Unwholeſome, and it neither now is, nor ever was really doubted whether it were Wholeſome: However, becauſe in<g ref="char:EOLhyphen"/>vidious perſons, who are no Well-wiſhers to Ingenious De<g ref="char:EOLhyphen"/>ſigns, may poſſibly raiſe Scruples, the Gentlemen who are concerned in this Grant have, purpoſely to give publick Satiſ<g ref="char:EOLhyphen"/>faction, ſent a large quantity of this Water to Doctor <hi>King,</hi> a very ingenious Phyſician, who is a Member of the <hi>Colledge,</hi> and of the <hi>Royal Society,</hi> who finds:</p>
+            <p n="1">1. That it is Lighter than moſt of the Waters about the Town.</p>
+            <p n="2">2. That it is without Sediment, and Tranſparent as any other Waters.</p>
+            <p n="3">3. That it Lathers (as they call it,) with <hi>Waſh-ball</hi> or <hi>Soap</hi> better than any other Water, and with leſs <hi>Soap.</hi>
+            </p>
+            <p n="4">4. That <hi>Sugar</hi> diſſolveth ſooner in it, than in other <hi>Water.</hi>
+            </p>
+            <p n="5">5. That it <hi>Evaporates</hi> ſooner than common <hi>Water.</hi>
+            </p>
+            <p n="6">6. That whereas common <hi>Water</hi> putrifies, and yields a ſtinking Smell within a few Weeks, this has continued Sweet and unaltered ſeveral Months, and may yet do ſo much longer, being ſtill in as good condition as it was above four Months ago.</p>
+            <p n="7">7. That it makes <hi>Jellies</hi> as firm and good as any <hi>Water.</hi>
+            </p>
+            <p n="8">8. That it boils Peaſe to Tenderneſs, Beef, Mutton, Fiſh, and all other Meat, without giving it an ill <hi>Taſte</hi> or <hi>Colour.</hi>
+            </p>
+            <p n="9">9. That it has no kind of ill <hi>Taſte</hi> in it ſelf, and boils in <hi>Milk</hi> without Curdling.</p>
+            <p n="10">10. That <hi>Flowers, Plants,</hi> and all <hi>Vegetables</hi> grow in it at leaſt as well as any other <hi>Water.</hi> And that ſmall <hi>Animals</hi> live and grow in it.</p>
+            <p>Several men of great Quality, <hi>viz.</hi> the Earls of <hi>Shrews<g ref="char:EOLhyphen"/>bury, Weſtmorland, Mulgrave,</hi> the Lord <hi>Dunbar,</hi> Lord <hi>Lumley,</hi> Lord <hi>Falconbridge,</hi> and Lord <hi>Chumley,</hi> beſides ſeveral Gentle<g ref="char:EOLhyphen"/>men
+<pb n="8" facs="tcp:172907:5"/>of Quality, Officers of <hi>Sea</hi> and <hi>Phyſicians</hi> have <hi>drunk</hi> of this <hi>Water,</hi> without being in the leaſt indiſpos'd after it; but leſt any doubts may remain, after this of the <hi>Salubrity</hi> of the ſaid <hi>Water,</hi> the following Teſtimonial of theſe Learned and Eminent <hi>Phyſicians</hi> is here inſerted.</p>
+            <div type="approbation">
+               <head>The Approbation of the <hi>Colledge</hi> of <hi>Phyſicians,</hi> and of other <hi>Doctors</hi> of <hi>Phyſick,</hi> Practiſing in and about <hi>London.</hi>
+               </head>
+               <p>WHereas we have received an account in a <hi>Gazet</hi> pub<g ref="char:EOLhyphen"/>liſhed ſome Months ſince, that the Honourable <hi>Robert Fitz Gerald</hi> 
+                  <abbr>Eſq</abbr> hath found out the way and means of redu<g ref="char:EOLhyphen"/>cing <hi>Salt-water</hi> into Freſh, in quantities ſufficient to ſerve Ships at Sea. And foraſmuch as ſome perſons may poſſibly make a doubt, if the ſaid Water be wholſome after the Salt is taken out of it. We therefore conſidering of what general advantage, this uſeful Experiment may be, having fully in<g ref="char:EOLhyphen"/>form'd our ſelves from Mr. <hi>Boyle,</hi> that the ſaid Experiment is made by Fire. And having alſo ſeen an account of ſome Ex<g ref="char:EOLhyphen"/>periments made by ſome Members of our own Body to de<g ref="char:EOLhyphen"/>clare our Opinion, that we believe the ſaid Water is very wholſome, and may be ſafely us'd. And being further ac<g ref="char:EOLhyphen"/>quainted by the ſaid Mr. <hi>Boyle,</hi> that the very few Ingredi<g ref="char:EOLhyphen"/>ents made uſe of in the ſaid Operation, are fix'd in the Fire, and give no noxious quality to the Water; We are therefore of Opinion that the ſame may be ſafely us'd, and is at leaſt as Healthy as any other Water us'd at Sea. All which we cer<g ref="char:EOLhyphen"/>tify (at the Requeſt of the Honourable <hi>Robert Fitz Gerald.</hi>)</p>
+               <list>
+                  <item>Dr. <hi>Cox</hi> Preſident,</item>
+                  <item>Sir <hi>C. Scarborough</hi> Knt.</item>
+                  <item>Dr. <hi>Daniel Whiſtler,</hi>
+                  </item>
+                  <item>Dr. <hi>Weatherly,</hi>
+                  </item>
+                  <item>Dr. <hi>William Denton,</hi>
+                  </item>
+                  <item>Sir <hi>T. Millington</hi> Knt.</item>
+                  <item>Dr. <hi>Walter Needham,</hi>
+                  </item>
+                  <item>Dr. <hi>Thomas Short,</hi>
+                  </item>
+                  <pb n="9" facs="tcp:172907:5"/>
+                  <item>Dr. <hi>Thomas Allen,</hi>
+                  </item>
+                  <item>Dr. <hi>Edmond Dickingſon,</hi>
+                  </item>
+                  <item>Dr. <hi>William Croone,</hi>
+                  </item>
+                  <item>Dr. <hi>Richard Lower,</hi>
+                  </item>
+                  <item>Dr. <hi>John Windebank,</hi>
+                  </item>
+                  <item>Dr. <hi>Daniel Cox,</hi>
+                  </item>
+                  <item>Dr. <hi>James Rupine,</hi>
+                  </item>
+                  <item>Dr. <hi>Charles Conqueſt,</hi>
+                  </item>
+                  <item>Dr. <hi>Edmond King,</hi>
+                  </item>
+                  <item>Dr. <hi>Willoughby,</hi>
+                  </item>
+                  <item>Dr. <hi>Thomas Sydenham,</hi>
+                  </item>
+                  <item>Dr. <hi>Edward Tyſon,</hi>
+                  </item>
+                  <item>Dr. <hi>Nehemiah Grew,</hi>
+                  </item>
+                  <item>Dr. <hi>David Abercromby,</hi>
+                  </item>
+                  <item>Dr. <hi>Andrew Creagh.</hi>
+                  </item>
+               </list>
+               <p>Though Phyſick has always Flouriſhed in this Kingdom, yet in this Age it is in greater perfection than ever; being im<g ref="char:EOLhyphen"/>prov'd both as to the Practical and Speculative part, by the preſent Fellows of the Famous Colledge of Phyſicians; who being Men of great Practice and Eminent Learning, cannot but give full ſatisfaction to all ſuch as inquire concerning the healthfulneſs of this Water; Their Opinion being in this par<g ref="char:EOLhyphen"/>ticular, the more valuable, becauſe it is their own diſadvan<g ref="char:EOLhyphen"/>tage; ſince the Brackiſh Waters of the Seacoaſt, and the pu<g ref="char:EOLhyphen"/>trified Waters made uſe of at Sea, might probably have affor<g ref="char:EOLhyphen"/>ded them a great number of Patients, which may hereafter be leſſened by the uſe of this wholſome Water.</p>
+               <div type="part">
+                  <head>The Benefits and Advantages of <hi>Sea Water</hi> made <hi>Freſh.</hi>
+                  </head>
+                  <p>MUch Stowage will be ſaved, ſo that a Ship of 50 or 60 Tun and proportionably of greater Bulk may take in ſeveral Tuns of Goods more than they formerly uſed to carry; which will conſiderably advance the Trade of all Merchants, and be of vaſt profit to the Maſters or Owners of Ships.</p>
+                  <p>The Charge of Casks is very conſiderable, eſpecially when bound with Iron, as all Sea-Casks muſt be; And by means of this Engine, three fourths of that charge will be ſaved.</p>
+                  <p>The tear and wear of Boats often going from Shipboard, and frequent loſs of the Boats and Men in ſtormy Weather,
+<pb n="10" facs="tcp:172907:6"/>and the opportunity of the Sea-mens being Drunk on ſhoar; by which many fatal Accidents do happen, (by means of hav<g ref="char:EOLhyphen"/>ing this Water-Engine) will be prevented.</p>
+                  <p>Ships in long Voyages have been forc'd to run many Leagues from their intended courſe, which much retards their Voyage, and makes them loſe Fair Winds, and maintain more Sea-men at Charges of Diet and Wages than they have occa<g ref="char:EOLhyphen"/>ſion for; which Inconveniences may be prevented by having Water within themſelves.</p>
+                  <p>Ships are often forc'd to leave their Anchors and Cables behind them, by being forced into dangerous Shoars upon account of taking in Freſh Water.</p>
+                  <p>In the <hi>African, Eaſt</hi> and <hi>Weſt India</hi> Voyages, great quan<g ref="char:EOLhyphen"/>tities of Freſh Water are neceſſary, which the Sea-men are forc'd to put above Deck for want of room, which is great hindrance to a Ships ſailing, and much endangers and wea<g ref="char:EOLhyphen"/>kens a Ship in caſe of Calms, which often happen in the nar<g ref="char:EOLhyphen"/>row Seas, but eſpecially near the Line, this Inſtrument will be of vaſt advantage by affording freſh and wholeſom Water, inſtead of that which is unwholeſom and offenſive.</p>
+                  <p>
+                     <hi>Eſſex, Kent,</hi> and all other the Sea-coaſts, that want whole<g ref="char:EOLhyphen"/>ſom Water, may be eaſily and cheaply ſupplied by this means; as alſo <hi>Venice, Amſterdam, Rotterdam,</hi> and all other places that lie near the Sea, and either want good, or have Brackiſh Water.</p>
+                  <p>In time of War, whole Navies may be relieved by this En<g ref="char:EOLhyphen"/>gine, and opportunity given of making the greateſt Diſcove<g ref="char:EOLhyphen"/>ries imaginable.</p>
+                  <p>It is further to be conſidered, that hitherto the richeſt and ableſt bodied Sea-men have been averſe from undertaking long Voyages, by reaſon of endangering their Healths and Lives, by making uſe of putrified Water, which Inconveni<g ref="char:EOLhyphen"/>ence is not now to be feared, there being ſuch uſeful helps of Freſh Water by the uſe of this Engine, and poſſibly a
+<pb n="11" facs="tcp:172907:6"/>ſmaller number of Men may ſerve the uſe of Ships than do at preſent, by which much Charges will be ſaved to the Ma<g ref="char:EOLhyphen"/>ſters and Owners of Ships; and Merchants may Trade upon eaſier Terms.</p>
+               </div>
+            </div>
+         </div>
+         <div type="letter">
+            <head>A LETTER of Mr. <hi>BOYLES,</hi> to the Learn<g ref="char:EOLhyphen"/>ed Doctor JOHN BEALE Fellow of the <hi>Royal Society,</hi> concerning <hi>Fresh Water</hi> made out of <hi>Sea-Water,</hi> printed at the Deſire of the <hi>Pa<g ref="char:EOLhyphen"/>tentees.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>TO give you a ſhort Account (ſuitable to the little time I have to do it in,) of the Tranſaction, which I ſuppoſe muſt have given the riſe to the mention made of my Name in the publik <hi>Gazzet;</hi> I muſt inform you, that one of my neareſt Relations, (Captain <hi>Fitz-Gerald</hi>) and ſome other worthy Gentlemen, having acquainted His Majeſty, that they had an Invention for making <hi>Sea-Water</hi> ſweet and wholeſom in great quantity, and with ſmall Charge, and that I had examin'd, and did approve the Water ſo prepar'd; His Majeſty was pleas'd, with very Gracious Expreſſions, to command me to attend Him, with a further and more particular Information. Having readily obey'd this Order, and been made acquainted with the Objections the King thought fit to make againſt the Practicableneſs of the Invention; which, (though a private man had urg'd them,) I I ſhould think the moſt judicious that have been fram'd againſt it, I humbly repreſented to Him, that I look'd upon this Inven<g ref="char:EOLhyphen"/>tion as compriſing two differing things; a <hi>Mechanical</hi> part, which related to the Engine it ſelf and the uſe of it a Ship-board,
+<pb n="12" facs="tcp:172907:7"/>and a <hi>Phyſical</hi> part which concerns the Potableneſs and Whole<g ref="char:EOLhyphen"/>ſomneſs of the Liquor. About the former of theſe I did not in<g ref="char:EOLhyphen"/>tend to clear the Difficulties, eſpecially ſuch ſtrong ones, as His Majeſty had propos'd; but left it to the <hi>Patentees</hi> to give Him Satisfaction, which they were in a readineſs to offer. But as to the Wholeſomneſs of the prepared Water, I had made ſome Trials upon that Liquor, which gave me no juſt grounds of ſuſpecting it to be unwholeſome, but ſeveral Motives to believe it well condi<g ref="char:EOLhyphen"/>tioned, and of great uſe to <hi>Navigators,</hi> and not to them only. And having hereupon briefly acquainted His Majeſty with the chief Trials I had made to examine this <hi>Sweetned Water,</hi> He was pleaſed to look upon them as ſatisfactory, and vouchſaf'd on that occaſion to diſcourſe as a <hi>Virtuoſo</hi> of the Sea and Brackiſh Waters, and gave me ſome new, as well as inſtructive Obſerva<g ref="char:EOLhyphen"/>tions about them: and in Concluſion, diſmiſs'd the <hi>Patentees</hi> with a Gracious Promiſe of His Royal Protection, and peculiar Favour.</p>
+            <p>To this ſhort Narrative it now remains, that I briefly Subjoyn the chief things that perſwaded me of the Salubrity of this Wa<g ref="char:EOLhyphen"/>ter, (whence may be juſtly and eaſily inferr'd, the <g ref="char:V">Ʋ</g>tilitie the Publick may receive by a cheap and eaſie way of preparing it:) <hi>Firſt,</hi> then I conſidered that almoſt all the Rain water that falls from the Clouds on the Main Ocean, and which (except perhaps in very few places in Torrid Climates) is unqueſtionably receiv'd as wholſome, muſt be afforded by the Sea, and conſequently be but Seawater freed from its Salt (according to the Famous Motto, <hi>Redit Agmine dulci.</hi>) Next I found, as His Majeſty Himſelf had done,) that the Liquor was well taſted, and without any ſenſible Brackiſhneſs; and ſo ſome of it continued for between <hi>4</hi> or <hi>5</hi> Months in a large Chryſtal Bottle, that I purpoſely kept unſtopt, and for the moſt part in a <hi>South</hi> Window, where it neither did, nor pro<g ref="char:EOLhyphen"/>bably in a long time, will putrifie, or ſo much as appear troubled or leſs tranſparent; during which time it was with Approbation taſted and ſmelled by ſeveral Learned Phyſicians of the Famous Colledge of <hi>London. Thirdly,</hi> I found it laver very well, which
+<pb n="13" facs="tcp:172907:7"/>moſt Pump waters, and many others that have ſome little (though unperceived) common Salt in them, will not do. <hi>Fourthly,</hi> this Water will boile Peaſe tender, which amongſt Seamen is one of the principal ſigns of good Water. <hi>Fifthly,</hi> in very good Ballances with an Inſtrument that I purpoſely caus'd to be made for the nice weighing of Liquors, I found this Water far leſs heavy than one would expect, for if it differed at all in weight from the like quantitie of undiſtilled Water, (I ſpeak with an <hi>If,</hi> becauſe it is far more difficult to be Exact in ſuch nice Trials, than the <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>practiced will Imagine) the difference was not conſiderable being but <hi>1</hi> part in <hi>400;</hi> and that difference is very ſmall in Compa<g ref="char:EOLhyphen"/>riſon of that which <hi>Navigators</hi> and Learned Authors relate to be obſervable in Natural Waters, all of them good and potable: I might tell you on this occaſion; that the laſt Great <hi>Duke</hi> of <hi>Tuſcany,</hi> who was an Eminent <hi>Virtuoſo,</hi> and the <hi>Patron</hi> of the Celebrated <hi>Academy</hi> of the <hi>Lyncean Philoſophers</hi> is affirmed among other prudent courſes that he took for his Health, where<g ref="char:EOLhyphen"/>of he was very Solicitous to have conſtantly made uſe of Diſtill'd Water for his own Drinking. And I could add other things fa<g ref="char:EOLhyphen"/>vourable enough to the <hi>Patentees</hi> Water, if Haſte, and perhaps Diſcretion too, did not oblige me to leave them yet unmention'd, that I might now have time to ſay ſomewhat of the main thing of all that convinced me of the <hi>Saltneſs</hi> of the Water I ſpeak of. I conſider'd then, <hi>Sixthly,</hi> That the thing that was aim'd at by thoſe Ingenious men, that at differing times, and in ſeveral Coun<g ref="char:EOLhyphen"/>tries have attempted to make Sea water Sweet, and the thing that was requir'd by propoſing Recompences, or otherwiſe to Encourage the Makers of ſuch Attempts, was to Free the Sea<g ref="char:EOLhyphen"/>water from the Brackiſhneſs without any Noxious Additament: ſo that on all ſides it was taken for granted, that the only thing that kept the Sea water from being ſafely Potable, was its Brackiſhneſs.</p>
+            <p>From which Reflection it was natural for me to infer a Con<g ref="char:EOLhyphen"/>cluſion very favourable to our prepar'd Water: For having long
+<pb n="14" facs="tcp:172907:8"/>ſince written a ſhort Diſcourſe of the <hi>Saltneſs of the Sea;</hi> I had been induſtrious to deviſe ways of comparing Waters in point of Brackiſhneſs. And by theſe I found the <hi>Patentees</hi> Water to be more free from common Salt, than Waters that are uſually drunk here in <hi>London,</hi> of which I remember I ſhew'd thoſe Gentlemen an Experiment that ſurpriz'd as well as convinc'd them. And that which more ſatisfied me my ſelf, was a Trial that I carefully made by a way which having mention'd, but not yet (for want of opportunity) diſclos'd to His Majeſty, the Reſpect I owe Him forbids me to impart without His Leave: On which account I hope you'l be content to be at preſent aſſur'd of theſe two things; One, that by this way of Trial, I found, (what poſſibly you will think ſtrange;) that if there were in Water ſo much as one Grain of Salt, in above two Ounces of Water, I could readily diſcover it: The other, that even by this critical <hi>Examen,</hi> I could not detect ſo much as a thouſandth part of Salt in our prepar'd Water; whereas I found by Trials purpoſely and care<g ref="char:EOLhyphen"/>fully made, that our <hi>Engliſh</hi> Sea-water contain'd a 44th or 45th part of good dry Salt; or, which is all one, that <hi>44</hi> Pints, or near ſo many Pounds of <hi>Marine</hi> Water, would yield about one Pound of dry common Salt.</p>
+            <p>Thus, <hi>Sir,</hi> you have a ſhort and Art-leſs Account, ſuch as my haſte will permit, and the Nature of the Subject requires, of my part in promoting this profitable Invention; to which I own my ſelf a great well-wiſher, not out of any private Intereſt (though that was obligingly proffer'd me by the <hi>Patentees,</hi>) but as I think the bringing into general uſe may prove a real Service to Man<g ref="char:EOLhyphen"/>kind, upon the ſcore of divers <g ref="char:V">Ʋ</g>tilities and Advantages, which yet (though I had leiſure,) I ſhould think very needleſs to enu<g ref="char:EOLhyphen"/>merate to ſo diſcerning a perſon as Dr. <hi>B.</hi> to whom I ſhall there<g ref="char:EOLhyphen"/>fore haſten to ſubſcribe my ſelf, <hi>&amp;c.</hi>
+            </p>
+            <closer>
+               <signed>An Affectionate Friend and Servant <hi>R. BOYLE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="notice">
+            <pb n="15" facs="tcp:172907:9"/>
+            <p>THe Gentlemen Concern'd in this Grant, are the Honou<g ref="char:EOLhyphen"/>rable <hi>Robert Fitz Gerald,</hi> Colonel <hi>Oglethorp,</hi> Mr. <hi>Bridge<g ref="char:EOLhyphen"/>man,</hi> Mr.<hi>Thomas Maul,</hi> and Mr. <hi>Patrick Trant,</hi> who intending the General Good as well as their Private Advantage in this Deſign, do intend as ſoon as theſe Papers be made publick, to agree with all ſuch as are willing to deal with them for the Inſtruments and Ingredients; which concerning ſo nearly the Lives and Healths of men, ſhall be carefully made up under ſuch ſure and private marks, that it ſhall be very hard (if poſ<g ref="char:EOLhyphen"/>ſible) to Counterfeit them.</p>
+            <p>If any Corporation, Body of People, or Private Perſons, are willing to be concern'd herein, they may pleaſe to direct their Letters to any of the Patentees before mentioned, at <hi>Gara<g ref="char:EOLhyphen"/>way</hi>'s <hi>Coffee houſe</hi> over againſt the <hi>Royal-Exchange,</hi> or at <hi>Will</hi>'s <hi>Coffee houſe</hi> in <hi>Bow-ſtreet</hi> in <hi>Covent Garden,</hi> or to Mr. <hi>John Pye</hi> in <hi>Brook-ſtreet</hi> near <hi>Holbourn,</hi> who is the Perſon appointed by the Patentees to receive ſuch Papers as are intended for them.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
